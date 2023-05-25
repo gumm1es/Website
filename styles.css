@@ -1,0 +1,31 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: white;
+    color: white;
+    padding: 25px 115px;
+   
+}
+.health{
+       border: 7px dashed black;
+}
+body{
+    background-color: white;
+}
+img{
+    width: 250px;
+  
+}
+
+.body{
+ padding: 25px 115px;
+    background-color: grey;
+    color: white;
+    border: 10px dashed white;
+}
+.healthy{
+ background-color: black;
+    color: white;
+    border: 7px dashed blue;
+   
+}
